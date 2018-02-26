@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>Katalon4SQL</name>
+   <tag></tag>
+   <UUID>5c4549d8-c264-46d4-9912-fc6acaac56a5</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
